@@ -1,7 +1,7 @@
 # SketchPlayground
 Testing a drawing canvas with Expo.
 
-## Instal
+## Install
 
 `npm install` / `yarn install`
 
